@@ -1,9 +1,11 @@
 # Expense Mate Android-App
 
-|![](readme-img/Screenshot_20230513-194651_Evolution_X_Launcher.png)|![](./readme-img//Screenshot_20230513-194655_Expense_Mate.png)|
-
-|![](readme-img/Screenshot_20230513-194658_Expense_Mate.png)|![](./readme-img/Screenshot_20230513-194704_Expense_Mate.png)|
-
-|![](readme-img/Screenshot_20230513-194841_Expense_Mate.png)|![](./readme-img/Screenshot_20230513-194844_Expense_Mate.png)|
-
-|![](readme-img/Screenshot_20230513-194915_Expense_Mate.png)|![](./readme-img/Screenshot_20230513-194924_Expense_Mate.png)|
+| Icon    | Splash Screen |
+| -------- | ------- |
+|![](./readme-img/1.png)|![](./readme-img/2.png)|
+| Login & Signup page  | Main Screen |
+|![](./readme-img/3.png)|![](./readme-img/4.png)|
+| Add transaction    | After adding transaction |
+|![](./readme-img/5.png)|![](./readme-img/6.png)|
+| Updating Transaction    | Swipe to Delete |
+|![](./readme-img/7.png)|![](./readme-img/8.png)|
